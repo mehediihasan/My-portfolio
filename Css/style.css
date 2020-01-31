@@ -188,46 +188,7 @@ scroll-behavior: smooth;
 	padding-left: 20px;
 	padding-top: 20px;
 }
-#note{
-	padding-top: 150px;
 
-}
-#note img{
-	margin-left: 41%;
-	width: 85px;
-	height: 85px;
-	margin-top: 20px;
-}
-#note h5{
-	margin-left: 45%;
-	font-size: 40px;
-	font-weight: 700;
-	color: #31B164
-}
-#note h4{
-	margin-left: 33%;
-	color:
-	#31B164;
-	letter-spacing: 1px;
-	padding-top: 20px;
-}
-#note h2{
-	margin-left: 3%;
-	color:
-	#31B164;
-	letter-spacing: 1px;
-	padding-top: 71px;
-}
-.box2:hover{
-	background: #D6EAF8;
-	box-shadow: 0px 0px 10px #1DBF73;
-}
-.box2{
-	height: 400px;
-	width: 400px;
-	margin-left: 33%;
-	transition: all linear .4s;
-}
 /*service-part end*/
 .my-work .common-heading img{
 	margin-left: -25px;
@@ -244,9 +205,55 @@ scroll-behavior: smooth;
 }
 
 
-/*
+#fiver{
+	background: url(../img/butterfly-2049567.jpg);
+	background-repeat: no-repeat;
+	height: 400px;
+	width: 100%;
+	-webkit-background-size: cover;
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+}
 
- */
+ .fiver-overlay{
+	background: rgb(0,0,0,0.6);
+	height: 400px;
+}
+#fiver h2{
+	padding-top: 50px;
+	font-size: 50px;
+	font-weight: 700;
+	font-family: 'PT Serif', serif;
+
+}
+
+#fiver h4{
+	font-size: 30px;
+	font-weight: 500;
+		font-family: 'PT Serif', serif;
+
+}
+#fiver{
+	color: white;
+	font-size: 40px;
+	text-align: center;
+	margin-top: 80px;
+}
+#fiver img{
+	height: 180px;
+	width: 180px;
+	margin-left: 13px;
+}
+
+
+
+
+
+
+
+
+
 
 .work-items img{
 	height: 350px;
